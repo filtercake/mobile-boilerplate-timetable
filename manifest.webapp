@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "Mobile Boilerplate",
   "launch_path": "/index.html",
   "description": "A front-end template that helps you build fast, modern mobile web apps.",
   "icons": {
-    "60": "/img/touch/touch-icon-60x60.png",
+    "192": "/img/touch/touch-icon-192x192.png",
     "128": "/img/touch/touch-icon-128x128.png"
   },
   "developer": {
