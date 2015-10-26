@@ -2,4 +2,8 @@ CACHE MANIFEST
 index.html
 css/main.css
 css/normalize.css
-# v5
+
+NETWORK:
+*
+
+# v6
